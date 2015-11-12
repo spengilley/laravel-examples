@@ -1,0 +1,8 @@
+{
+  "name": "encompass.lt",
+  "version": "1.0",
+  "dependencies": {
+    "bootstrap": "~3.3.x",
+    "jquery-1.9.1": "http://code.jquery.com/jquery-1.9.1.js"
+  }
+}
