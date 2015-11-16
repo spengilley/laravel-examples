@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('home');
 });
+
+/*
+* A route for our RESTful hero api!
+*/
+Route::resource('hero', 'HeroController');
